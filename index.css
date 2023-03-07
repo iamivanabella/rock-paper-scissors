@@ -1,0 +1,22 @@
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.sub-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin: 0 20px;
+}
+.sub-container i {
+  font-size: 200px;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  cursor: pointer;
+}
